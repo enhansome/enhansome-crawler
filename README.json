@@ -33,7 +33,7 @@
                 "last_commit": "2017-04-18T08:00:51Z",
                 "owner": "gnemoug",
                 "repo": "distribute_crawler",
-                "stars": 3241
+                "stars": 3240
               }
             },
             {
@@ -68,10 +68,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T09:42:38Z",
+            "last_commit": "2026-08-14T09:25:35Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 63833
+            "stars": 63841
           }
         },
         {
@@ -99,7 +99,7 @@
             "last_commit": "2024-04-30T19:43:29Z",
             "owner": "binux",
             "repo": "pyspider",
-            "stars": 16788
+            "stars": 16786
           }
         },
         {
@@ -113,7 +113,7 @@
             "last_commit": "2026-08-09T07:55:32Z",
             "owner": "codelucas",
             "repo": "newspaper",
-            "stars": 15140
+            "stars": 15141
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2023-06-14T22:27:23Z",
             "owner": "ssssssss-team",
             "repo": "spider-flow",
-            "stars": 11350
+            "stars": 11351
           }
         },
         {
@@ -385,7 +385,7 @@
             "last_commit": "2026-08-05T03:09:02Z",
             "owner": "internetarchive",
             "repo": "heritrix3",
-            "stars": 3296
+            "stars": 3297
           }
         },
         {
@@ -427,7 +427,7 @@
             "last_commit": "2026-07-29T05:42:38Z",
             "owner": "zhegexiaohuozi",
             "repo": "SeimiCrawler",
-            "stars": 1992
+            "stars": 1990
           }
         },
         {
@@ -480,7 +480,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T07:15:09Z",
+            "last_commit": "2026-08-13T19:06:32Z",
             "owner": "Norconex",
             "repo": "crawler",
             "stars": 204
@@ -617,10 +617,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T09:45:16Z",
+            "last_commit": "2026-08-14T10:21:03Z",
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25368
+            "stars": 25383
           }
         },
         {
@@ -834,7 +834,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-10T19:31:23Z",
+            "last_commit": "2026-08-14T09:08:38Z",
             "owner": "symfony",
             "repo": "dom-crawler",
             "stars": 4028
@@ -1045,7 +1045,7 @@
             "last_commit": "2026-08-01T22:46:18Z",
             "owner": "spider-rs",
             "repo": "spider",
-            "stars": 2649
+            "stars": 2650
           }
         },
         {
@@ -1093,7 +1093,7 @@
             "last_commit": "2026-03-03T03:58:31Z",
             "owner": "andeya",
             "repo": "pholcus",
-            "stars": 7577
+            "stars": 7576
           }
         },
         {
@@ -1104,7 +1104,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T11:13:54Z",
+            "last_commit": "2026-08-14T02:37:41Z",
             "owner": "MontFerret",
             "repo": "ferret",
             "stars": 6008
@@ -1135,7 +1135,7 @@
             "last_commit": "2021-08-17T01:48:19Z",
             "owner": "yann-shi",
             "repo": "dht",
-            "stars": 2768
+            "stars": 2769
           }
         },
         {
@@ -1281,7 +1281,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:14:31.583Z",
+    "last_updated": "2026-08-14T11:12:47.010Z",
     "original_repository": "BruceDone/awesome-crawler",
     "original_repository_sha": "832efd3e8f8af1350be3450d9b7636a8523fc4b2",
     "enhanced_repository": "enhansome/enhansome-crawler",
