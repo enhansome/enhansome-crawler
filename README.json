@@ -19,7 +19,7 @@
                 "last_commit": "2026-05-19T14:03:27Z",
                 "owner": "rmax",
                 "repo": "scrapy-redis",
-                "stars": 5645
+                "stars": 5643
               }
             },
             {
@@ -68,10 +68,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T08:59:33Z",
+            "last_commit": "2026-08-18T08:43:43Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 63887
+            "stars": 63925
           }
         },
         {
@@ -85,7 +85,7 @@
             "last_commit": "2026-07-25T08:02:33Z",
             "owner": "soimort",
             "repo": "you-get",
-            "stars": 56869
+            "stars": 56872
           }
         },
         {
@@ -113,7 +113,7 @@
             "last_commit": "2026-08-09T07:55:32Z",
             "owner": "codelucas",
             "repo": "newspaper",
-            "stars": 15141
+            "stars": 15140
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-04T02:43:34Z",
             "owner": "MechanicalSoup",
             "repo": "MechanicalSoup",
-            "stars": 4889
+            "stars": 4888
           }
         },
         {
@@ -155,7 +155,7 @@
             "last_commit": "2020-09-10T18:41:47Z",
             "owner": "jmcarp",
             "repo": "robobrowser",
-            "stars": 3693
+            "stars": 3692
           }
         },
         {
@@ -211,7 +211,7 @@
             "last_commit": "2022-07-31T00:13:43Z",
             "owner": "qinxuye",
             "repo": "cola",
-            "stars": 1499
+            "stars": 1500
           }
         },
         {
@@ -382,10 +382,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-05T03:09:02Z",
+            "last_commit": "2026-08-18T07:12:47Z",
             "owner": "internetarchive",
             "repo": "heritrix3",
-            "stars": 3298
+            "stars": 3299
           }
         },
         {
@@ -438,7 +438,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T10:34:00Z",
+            "last_commit": "2026-08-17T18:28:50Z",
             "owner": "apache",
             "repo": "stormcrawler",
             "stars": 993
@@ -617,10 +617,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T08:39:11Z",
+            "last_commit": "2026-08-17T13:34:10Z",
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25410
+            "stars": 25419
           }
         },
         {
@@ -648,7 +648,7 @@
             "last_commit": "2026-08-02T20:45:57Z",
             "owner": "matthewmueller",
             "repo": "x-ray",
-            "stars": 5902
+            "stars": 5903
           }
         },
         {
@@ -834,7 +834,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T13:38:04Z",
+            "last_commit": "2026-08-17T17:17:20Z",
             "owner": "symfony",
             "repo": "dom-crawler",
             "stars": 4028
@@ -879,7 +879,7 @@
             "last_commit": "2026-08-04T16:26:11Z",
             "owner": "mvdbos",
             "repo": "php-spider",
-            "stars": 1343
+            "stars": 1342
           }
         },
         {
@@ -1042,10 +1042,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-01T22:46:18Z",
+            "last_commit": "2026-08-18T00:27:06Z",
             "owner": "spider-rs",
             "repo": "spider",
-            "stars": 2656
+            "stars": 2659
           }
         },
         {
@@ -1079,7 +1079,7 @@
             "last_commit": "2026-08-14T14:37:32Z",
             "owner": "gocolly",
             "repo": "colly",
-            "stars": 25427
+            "stars": 25430
           }
         },
         {
@@ -1104,7 +1104,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T01:39:12Z",
+            "last_commit": "2026-08-18T10:04:18Z",
             "owner": "MontFerret",
             "repo": "ferret",
             "stars": 6008
@@ -1281,7 +1281,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:52:43.453Z",
+    "last_updated": "2026-08-18T10:52:03.718Z",
     "original_repository": "BruceDone/awesome-crawler",
     "original_repository_sha": "832efd3e8f8af1350be3450d9b7636a8523fc4b2",
     "enhanced_repository": "enhansome/enhansome-crawler",
