@@ -21,12 +21,12 @@ A collection of awesome web crawler,spider and resources in different languages.
 
 ## Python
 
-* [Scrapy](https://github.com/scrapy/scrapy) ⭐ 63,955 | 🐛 476 | 🌐 Python | 📅 2026-08-19 - A fast high-level screen scraping and web crawling framework.
+* [Scrapy](https://github.com/scrapy/scrapy) ⭐ 63,958 | 🐛 477 | 🌐 Python | 📅 2026-08-19 - A fast high-level screen scraping and web crawling framework.
   * [Scrapy-Redis](https://github.com/rolando/scrapy-redis) ⭐ 5,643 | 🐛 35 | 🌐 Python | 📅 2026-05-19 - Redis-based components for Scrapy.
   * [distribute\_crawler](https://github.com/gnemoug/distribute_crawler) ⭐ 3,239 | 🐛 26 | 🌐 Python | 📅 2017-04-18 - Uses scrapy,redis, mongodb,graphite to create a distributed spider.
   * [scrapy-cluster](https://github.com/istresearch/scrapy-cluster) ⚠️ Archived - Uses Redis and Kafka to create a distributed on demand scraping cluster.
   * [django-dynamic-scraper](https://github.com/holgerd77/django-dynamic-scraper) ⭐ 1,158 | 🐛 40 | 🌐 Python | 📅 2022-02-19 - Creating Scrapy scrapers via the Django admin interface.
-* [you-get](https://github.com/soimort/you-get) ⭐ 56,871 | 🐛 386 | 🌐 Python | 📅 2026-07-25 -  Dumb downloader that scrapes the web.
+* [you-get](https://github.com/soimort/you-get) ⭐ 56,872 | 🐛 386 | 🌐 Python | 📅 2026-07-25 -  Dumb downloader that scrapes the web.
 * [pyspider](https://github.com/binux/pyspider) ⚠️ Archived - A powerful spider system.
 * [newspaper](https://github.com/codelucas/newspaper) ⭐ 15,138 | 🐛 514 | 🌐 Python | 📅 2026-08-09 - News, full-text, and article metadata extraction in Python 3
 * [portia](https://github.com/scrapinghub/portia) ⚠️ Archived - Visual scraping for Scrapy.
@@ -80,7 +80,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 
 ## JavaScript
 
-* [crawlee](https://github.com/apify/crawlee) ⭐ 25,430 | 🐛 148 | 🌐 TypeScript | 📅 2026-08-19 - A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
+* [crawlee](https://github.com/apify/crawlee) ⭐ 25,432 | 🐛 147 | 🌐 TypeScript | 📅 2026-08-19 - A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 * [node-crawler](https://github.com/bda-research/node-crawler) ⭐ 6,798 | 🐛 29 | 🌐 TypeScript | 📅 2026-06-18 - Node-crawler has clean,simple api.
 * [x-ray](https://github.com/lapwinglabs/x-ray) ⭐ 5,904 | 🐛 74 | 🌐 JavaScript | 📅 2026-08-02 - Web scraper with pagination and crawler support.
 * [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) ⭐ 5,636 | 🐛 33 | 🌐 JavaScript | 📅 2023-04-29 - Headless Chrome crawls with jQuery support
@@ -112,7 +112,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 
 ## C
 
-* [httrack](https://github.com/xroche/httrack) ⭐ 4,688 | 🐛 11 | 🌐 C | 📅 2026-08-19 - Copy websites to your computer.
+* [httrack](https://github.com/xroche/httrack) ⭐ 4,689 | 🐛 12 | 🌐 C | 📅 2026-08-19 - Copy websites to your computer.
 
 ## Ruby
 
@@ -126,7 +126,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 
 ## Rust
 
-* [spider](https://github.com/spider-rs/spider) ⭐ 2,658 | 🐛 0 | 🌐 Rust | 📅 2026-08-18 - The fastest web crawler and indexer.
+* [spider](https://github.com/spider-rs/spider) ⭐ 2,659 | 🐛 0 | 🌐 Rust | 📅 2026-08-18 - The fastest web crawler and indexer.
 * [crawler](https://github.com/a11ywatch/crawler) ⚠️ Archived - A gRPC web indexer turbo charged for performance.
 
 ## R

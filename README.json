@@ -73,10 +73,10 @@
             "archived": false,
             "id": 529502,
             "language": "Python",
-            "last_commit": "2026-08-19T08:50:11Z",
+            "last_commit": "2026-08-19T11:42:18Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 63955
+            "stars": 63958
           }
         },
         {
@@ -91,7 +91,7 @@
             "last_commit": "2026-07-25T08:02:33Z",
             "owner": "soimort",
             "repo": "you-get",
-            "stars": 56871
+            "stars": 56872
           }
         },
         {
@@ -653,10 +653,10 @@
             "archived": false,
             "id": 66670819,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T07:41:28Z",
+            "last_commit": "2026-08-19T12:17:04Z",
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25430
+            "stars": 25432
           }
         },
         {
@@ -1110,7 +1110,7 @@
             "last_commit": "2026-08-18T00:27:06Z",
             "owner": "spider-rs",
             "repo": "spider",
-            "stars": 2658
+            "stars": 2659
           }
         },
         {
@@ -1355,8 +1355,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:50:49.752Z",
+    "last_updated": "2026-08-19T12:22:35.174Z",
     "original_repository": "BruceDone/awesome-crawler",
+    "original_repository_id": 70459317,
     "original_repository_sha": "832efd3e8f8af1350be3450d9b7636a8523fc4b2",
     "enhanced_repository": "enhansome/enhansome-crawler",
     "enhanced_repository_description": null,
