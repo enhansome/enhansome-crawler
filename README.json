@@ -73,10 +73,10 @@
             "archived": false,
             "id": 529502,
             "language": "Python",
-            "last_commit": "2026-08-21T09:52:46Z",
+            "last_commit": "2026-08-21T12:56:41Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 63980
+            "stars": 63994
           }
         },
         {
@@ -91,7 +91,7 @@
             "last_commit": "2026-07-25T08:02:33Z",
             "owner": "soimort",
             "repo": "you-get",
-            "stars": 56873
+            "stars": 56872
           }
         },
         {
@@ -121,7 +121,7 @@
             "last_commit": "2026-08-09T07:55:32Z",
             "owner": "codelucas",
             "repo": "newspaper",
-            "stars": 15138
+            "stars": 15139
           }
         },
         {
@@ -382,7 +382,7 @@
             "last_commit": "2023-06-14T22:27:23Z",
             "owner": "ssssssss-team",
             "repo": "spider-flow",
-            "stars": 11351
+            "stars": 11349
           }
         },
         {
@@ -412,7 +412,7 @@
             "last_commit": "2026-08-21T00:31:09Z",
             "owner": "internetarchive",
             "repo": "heritrix3",
-            "stars": 3301
+            "stars": 3303
           }
         },
         {
@@ -653,10 +653,10 @@
             "archived": false,
             "id": 66670819,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T07:07:56Z",
+            "last_commit": "2026-08-21T16:31:55Z",
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25453
+            "stars": 25458
           }
         },
         {
@@ -686,7 +686,7 @@
             "last_commit": "2026-08-02T20:45:57Z",
             "owner": "matthewmueller",
             "repo": "x-ray",
-            "stars": 5904
+            "stars": 5905
           }
         },
         {
@@ -701,7 +701,7 @@
             "last_commit": "2023-04-29T20:48:51Z",
             "owner": "yujiosaka",
             "repo": "headless-chrome-crawler",
-            "stars": 5636
+            "stars": 5635
           }
         },
         {
@@ -716,7 +716,7 @@
             "last_commit": "2023-12-13T04:18:37Z",
             "owner": "rchipka",
             "repo": "node-osmosis",
-            "stars": 4108
+            "stars": 4107
           }
         },
         {
@@ -731,7 +731,7 @@
             "last_commit": "2026-07-07T14:03:57Z",
             "owner": "IonicaBizau",
             "repo": "scrape-it",
-            "stars": 4076
+            "stars": 4075
           }
         },
         {
@@ -885,7 +885,7 @@
             "archived": false,
             "id": 1398638,
             "language": "PHP",
-            "last_commit": "2026-08-17T17:17:20Z",
+            "last_commit": "2026-08-21T18:19:57Z",
             "owner": "symfony",
             "repo": "dom-crawler",
             "stars": 4027
@@ -903,7 +903,7 @@
             "last_commit": "2026-08-07T07:21:29Z",
             "owner": "spatie",
             "repo": "crawler",
-            "stars": 2828
+            "stars": 2829
           }
         },
         {
@@ -1059,7 +1059,7 @@
             "last_commit": "2026-01-12T09:23:16Z",
             "owner": "postmodern",
             "repo": "spidr",
-            "stars": 835
+            "stars": 836
           }
         },
         {
@@ -1110,7 +1110,7 @@
             "last_commit": "2026-08-19T13:42:57Z",
             "owner": "spider-rs",
             "repo": "spider",
-            "stars": 2666
+            "stars": 2668
           }
         },
         {
@@ -1146,7 +1146,7 @@
             "last_commit": "2026-08-14T14:37:32Z",
             "owner": "gocolly",
             "repo": "colly",
-            "stars": 25446
+            "stars": 25466
           }
         },
         {
@@ -1173,10 +1173,10 @@
             "archived": false,
             "id": 145790679,
             "language": "Go",
-            "last_commit": "2026-08-20T23:07:41Z",
+            "last_commit": "2026-08-22T00:45:28Z",
             "owner": "MontFerret",
             "repo": "ferret",
-            "stars": 6008
+            "stars": 6009
           }
         },
         {
@@ -1191,7 +1191,7 @@
             "last_commit": "2026-08-05T04:05:39Z",
             "owner": "hakluke",
             "repo": "hakrawler",
-            "stars": 5110
+            "stars": 5112
           }
         },
         {
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:53:49.425Z",
+    "last_updated": "2026-08-22T10:45:10.577Z",
     "original_repository": "BruceDone/awesome-crawler",
     "original_repository_id": 70459317,
     "original_repository_sha": "832efd3e8f8af1350be3450d9b7636a8523fc4b2",
