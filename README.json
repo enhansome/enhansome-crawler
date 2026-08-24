@@ -73,10 +73,10 @@
             "archived": false,
             "id": 529502,
             "language": "Python",
-            "last_commit": "2026-08-24T08:08:11Z",
+            "last_commit": "2026-08-24T12:29:41Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64010
+            "stars": 64014
           }
         },
         {
@@ -91,7 +91,7 @@
             "last_commit": "2026-08-24T07:23:27Z",
             "owner": "soimort",
             "repo": "you-get",
-            "stars": 56873
+            "stars": 56874
           }
         },
         {
@@ -653,10 +653,10 @@
             "archived": false,
             "id": 66670819,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T08:03:38Z",
+            "last_commit": "2026-08-24T12:23:18Z",
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25483
+            "stars": 25484
           }
         },
         {
@@ -821,7 +821,7 @@
             "last_commit": "2026-04-15T09:54:43Z",
             "owner": "amoilanen",
             "repo": "js-crawler",
-            "stars": 257
+            "stars": 256
           }
         },
         {
@@ -989,6 +989,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "open-source-search-engine",
+          "description": "A distributed open source search engine and spider/crawler written in C/C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11851668,
+            "language": "C++",
+            "last_commit": "2024-01-10T16:56:24Z",
+            "owner": "gigablast",
+            "repo": "open-source-search-engine",
+            "stars": 1601
+          }
+        }
+      ],
+      "title": "C++"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "httrack",
+          "description": "Copy websites to your computer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32202165,
+            "language": "C",
+            "last_commit": "2026-08-24T10:49:39Z",
+            "owner": "xroche",
+            "repo": "httrack",
+            "stars": 4698
+          }
+        }
+      ],
+      "title": "C"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Nokogiri",
           "description": "A Rubygem providing HTML, XML, SAX, and Reader parsers with XPath and CSS selector support.",
           "children": [],
@@ -1136,6 +1178,69 @@
       "items": [
         {
           "node_type": "item",
+          "title": "rvest",
+          "description": "Simple web scraping for R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22178685,
+            "language": "R",
+            "last_commit": "2025-09-09T10:02:49Z",
+            "owner": "tidyverse",
+            "repo": "rvest",
+            "stars": 1522
+          }
+        }
+      ],
+      "title": "R"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ebot",
+          "description": "A scalable, distribuited and highly configurable web cawler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 593966,
+            "language": "Erlang",
+            "last_commit": "2011-04-08T19:54:55Z",
+            "owner": "matteoredaelli",
+            "repo": "ebot",
+            "stars": 329
+          }
+        }
+      ],
+      "title": "Erlang"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "web-scraper",
+          "description": "Web Scraping Toolkit using HTML and CSS Selectors or XPath expressions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105434,
+            "language": "Perl",
+            "last_commit": "2017-04-26T01:43:06Z",
+            "owner": "miyagawa",
+            "repo": "web-scraper",
+            "stars": 102
+          }
+        }
+      ],
+      "title": "Perl"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "colly",
           "description": "Fast and Elegant Scraping Framework for Gophers.",
           "children": [],
@@ -1146,7 +1251,7 @@
             "last_commit": "2026-08-14T14:37:32Z",
             "owner": "gocolly",
             "repo": "colly",
-            "stars": 25474
+            "stars": 25475
           }
         },
         {
@@ -1161,7 +1266,7 @@
             "last_commit": "2026-08-24T03:24:17Z",
             "owner": "andeya",
             "repo": "pholcus",
-            "stars": 7575
+            "stars": 7576
           }
         },
         {
@@ -1355,7 +1460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:58:29.926Z",
+    "last_updated": "2026-08-24T13:51:20.941Z",
     "original_repository": "BruceDone/awesome-crawler",
     "original_repository_id": 70459317,
     "original_repository_sha": "832efd3e8f8af1350be3450d9b7636a8523fc4b2",
