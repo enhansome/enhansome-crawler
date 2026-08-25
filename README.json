@@ -20,7 +20,7 @@
                 "last_commit": "2026-05-19T14:03:27Z",
                 "owner": "rmax",
                 "repo": "scrapy-redis",
-                "stars": 5643
+                "stars": 5642
               }
             },
             {
@@ -76,7 +76,7 @@
             "last_commit": "2026-08-24T12:29:41Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64014
+            "stars": 64020
           }
         },
         {
@@ -91,7 +91,7 @@
             "last_commit": "2026-08-24T07:23:27Z",
             "owner": "soimort",
             "repo": "you-get",
-            "stars": 56874
+            "stars": 56871
           }
         },
         {
@@ -226,7 +226,7 @@
             "last_commit": "2022-07-31T00:13:43Z",
             "owner": "qinxuye",
             "repo": "cola",
-            "stars": 1500
+            "stars": 1499
           }
         },
         {
@@ -409,10 +409,10 @@
             "archived": false,
             "id": 2623406,
             "language": "Java",
-            "last_commit": "2026-08-21T00:31:09Z",
+            "last_commit": "2026-08-25T02:06:42Z",
             "owner": "internetarchive",
             "repo": "heritrix3",
-            "stars": 3304
+            "stars": 3303
           }
         },
         {
@@ -514,7 +514,7 @@
             "archived": false,
             "id": 8323037,
             "language": "Java",
-            "last_commit": "2026-08-23T21:20:03Z",
+            "last_commit": "2026-08-25T02:21:27Z",
             "owner": "Norconex",
             "repo": "crawler",
             "stars": 204
@@ -552,7 +552,7 @@
                 "last_commit": "2015-12-17T07:21:20Z",
                 "owner": "YahooArchive",
                 "repo": "anthelion",
-                "stars": 2828
+                "stars": 2827
               }
             }
           ]
@@ -656,7 +656,7 @@
             "last_commit": "2026-08-24T12:23:18Z",
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25484
+            "stars": 25486
           }
         },
         {
@@ -873,7 +873,7 @@
             "last_commit": "2023-04-01T09:06:44Z",
             "owner": "FriendsOfPHP",
             "repo": "Goutte",
-            "stars": 9192
+            "stars": 9193
           }
         },
         {
@@ -1017,10 +1017,10 @@
             "archived": false,
             "id": 32202165,
             "language": "C",
-            "last_commit": "2026-08-24T10:49:39Z",
+            "last_commit": "2026-08-25T05:43:44Z",
             "owner": "xroche",
             "repo": "httrack",
-            "stars": 4698
+            "stars": 4699
           }
         }
       ],
@@ -1188,7 +1188,7 @@
             "last_commit": "2025-09-09T10:02:49Z",
             "owner": "tidyverse",
             "repo": "rvest",
-            "stars": 1522
+            "stars": 1521
           }
         }
       ],
@@ -1251,7 +1251,7 @@
             "last_commit": "2026-08-14T14:37:32Z",
             "owner": "gocolly",
             "repo": "colly",
-            "stars": 25475
+            "stars": 25479
           }
         },
         {
@@ -1278,7 +1278,7 @@
             "archived": false,
             "id": 145790679,
             "language": "Go",
-            "last_commit": "2026-08-24T03:05:37Z",
+            "last_commit": "2026-08-24T20:34:52Z",
             "owner": "MontFerret",
             "repo": "ferret",
             "stars": 6009
@@ -1296,7 +1296,7 @@
             "last_commit": "2026-08-05T04:05:39Z",
             "owner": "hakluke",
             "repo": "hakrawler",
-            "stars": 5115
+            "stars": 5116
           }
         },
         {
@@ -1460,7 +1460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:51:20.941Z",
+    "last_updated": "2026-08-25T05:45:49.287Z",
     "original_repository": "BruceDone/awesome-crawler",
     "original_repository_id": 70459317,
     "original_repository_sha": "832efd3e8f8af1350be3450d9b7636a8523fc4b2",
