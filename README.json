@@ -73,10 +73,10 @@
             "archived": false,
             "id": 529502,
             "language": "Python",
-            "last_commit": "2026-08-24T12:29:41Z",
+            "last_commit": "2026-08-25T10:21:50Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64020
+            "stars": 64024
           }
         },
         {
@@ -91,7 +91,7 @@
             "last_commit": "2026-08-24T07:23:27Z",
             "owner": "soimort",
             "repo": "you-get",
-            "stars": 56871
+            "stars": 56872
           }
         },
         {
@@ -106,7 +106,7 @@
             "last_commit": "2024-04-30T19:43:29Z",
             "owner": "binux",
             "repo": "pyspider",
-            "stars": 16775
+            "stars": 16774
           }
         },
         {
@@ -367,7 +367,7 @@
             "last_commit": "2025-12-20T14:01:57Z",
             "owner": "code4craft",
             "repo": "webmagic",
-            "stars": 11679
+            "stars": 11678
           }
         },
         {
@@ -469,7 +469,7 @@
             "archived": false,
             "id": 9395761,
             "language": "Java",
-            "last_commit": "2026-08-24T06:40:41Z",
+            "last_commit": "2026-08-25T07:12:27Z",
             "owner": "apache",
             "repo": "stormcrawler",
             "stars": 992
@@ -653,10 +653,10 @@
             "archived": false,
             "id": 66670819,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:23:18Z",
+            "last_commit": "2026-08-25T07:07:17Z",
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25486
+            "stars": 25489
           }
         },
         {
@@ -873,7 +873,7 @@
             "last_commit": "2023-04-01T09:06:44Z",
             "owner": "FriendsOfPHP",
             "repo": "Goutte",
-            "stars": 9193
+            "stars": 9192
           }
         },
         {
@@ -1017,10 +1017,10 @@
             "archived": false,
             "id": 32202165,
             "language": "C",
-            "last_commit": "2026-08-25T05:43:44Z",
+            "last_commit": "2026-08-25T10:55:05Z",
             "owner": "xroche",
             "repo": "httrack",
-            "stars": 4699
+            "stars": 4700
           }
         }
       ],
@@ -1086,7 +1086,7 @@
             "last_commit": "2026-04-07T16:28:13Z",
             "owner": "felipecsl",
             "repo": "wombat",
-            "stars": 1361
+            "stars": 1360
           }
         },
         {
@@ -1152,7 +1152,7 @@
             "last_commit": "2026-08-19T13:42:57Z",
             "owner": "spider-rs",
             "repo": "spider",
-            "stars": 2672
+            "stars": 2671
           }
         },
         {
@@ -1251,7 +1251,7 @@
             "last_commit": "2026-08-14T14:37:32Z",
             "owner": "gocolly",
             "repo": "colly",
-            "stars": 25479
+            "stars": 25480
           }
         },
         {
@@ -1460,7 +1460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:45:49.287Z",
+    "last_updated": "2026-08-25T10:56:17.984Z",
     "original_repository": "BruceDone/awesome-crawler",
     "original_repository_id": 70459317,
     "original_repository_sha": "832efd3e8f8af1350be3450d9b7636a8523fc4b2",
