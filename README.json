@@ -35,7 +35,7 @@
                 "last_commit": "2017-04-18T08:00:51Z",
                 "owner": "gnemoug",
                 "repo": "distribute_crawler",
-                "stars": 3238
+                "stars": 3237
               }
             },
             {
@@ -73,10 +73,10 @@
             "archived": false,
             "id": 529502,
             "language": "Python",
-            "last_commit": "2026-08-26T16:38:28Z",
+            "last_commit": "2026-08-27T12:02:20Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64052
+            "stars": 64061
           }
         },
         {
@@ -91,7 +91,7 @@
             "last_commit": "2026-08-24T07:23:27Z",
             "owner": "soimort",
             "repo": "you-get",
-            "stars": 56870
+            "stars": 56871
           }
         },
         {
@@ -106,7 +106,7 @@
             "last_commit": "2024-04-30T19:43:29Z",
             "owner": "binux",
             "repo": "pyspider",
-            "stars": 16774
+            "stars": 16773
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-08-04T02:43:34Z",
             "owner": "MechanicalSoup",
             "repo": "MechanicalSoup",
-            "stars": 4888
+            "stars": 4887
           }
         },
         {
@@ -412,7 +412,7 @@
             "last_commit": "2026-08-25T02:06:42Z",
             "owner": "internetarchive",
             "repo": "heritrix3",
-            "stars": 3306
+            "stars": 3307
           }
         },
         {
@@ -469,7 +469,7 @@
             "archived": false,
             "id": 9395761,
             "language": "Java",
-            "last_commit": "2026-08-25T12:14:13Z",
+            "last_commit": "2026-08-27T13:48:22Z",
             "owner": "apache",
             "repo": "stormcrawler",
             "stars": 992
@@ -514,7 +514,7 @@
             "archived": false,
             "id": 8323037,
             "language": "Java",
-            "last_commit": "2026-08-25T22:12:18Z",
+            "last_commit": "2026-08-27T19:13:15Z",
             "owner": "Norconex",
             "repo": "crawler",
             "stars": 204
@@ -653,10 +653,10 @@
             "archived": false,
             "id": 66670819,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T08:28:55Z",
+            "last_commit": "2026-08-27T19:05:27Z",
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25520
+            "stars": 25524
           }
         },
         {
@@ -999,7 +999,7 @@
             "last_commit": "2024-01-10T16:56:24Z",
             "owner": "gigablast",
             "repo": "open-source-search-engine",
-            "stars": 1601
+            "stars": 1600
           }
         }
       ],
@@ -1017,7 +1017,7 @@
             "archived": false,
             "id": 32202165,
             "language": "C",
-            "last_commit": "2026-08-27T09:15:38Z",
+            "last_commit": "2026-08-27T14:57:56Z",
             "owner": "xroche",
             "repo": "httrack",
             "stars": 4704
@@ -1152,7 +1152,7 @@
             "last_commit": "2026-08-19T13:42:57Z",
             "owner": "spider-rs",
             "repo": "spider",
-            "stars": 2672
+            "stars": 2674
           }
         },
         {
@@ -1356,7 +1356,7 @@
             "last_commit": "2016-11-28T14:46:10Z",
             "owner": "yhat",
             "repo": "scrape",
-            "stars": 1515
+            "stars": 1516
           }
         },
         {
@@ -1460,7 +1460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:32:45.290Z",
+    "last_updated": "2026-08-27T20:36:35.202Z",
     "original_repository_info": {
       "archived": false,
       "id": 70459317,
@@ -1468,7 +1468,7 @@
       "last_commit": "2024-06-16T17:03:36Z",
       "owner": "BruceDone",
       "repo": "awesome-crawler",
-      "stars": 7295
+      "stars": 7297
     },
     "original_repository_sha": "832efd3e8f8af1350be3450d9b7636a8523fc4b2",
     "enhanced_repository": "enhansome/enhansome-crawler",
