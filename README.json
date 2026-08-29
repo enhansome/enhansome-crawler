@@ -15,12 +15,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Redis-based components for Scrapy.",
+                "homepage": "http://scrapy-redis.readthedocs.io",
                 "id": 2286594,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-19T14:03:27Z",
+                "open_issues": 36,
                 "owner": "rmax",
                 "repo": "scrapy-redis",
-                "stars": 5642
+                "stars": 5642,
+                "topics": [
+                  "crawler",
+                  "distributed",
+                  "redis",
+                  "scrapy"
+                ]
               },
               "first_seen": "2026-08-28T21:12:08.407Z"
             },
@@ -31,12 +41,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "使用scrapy,redis, mongodb,graphite实现的一个分布式网络爬虫,底层存储mongodb集群,分布式使用redis实现,爬虫状态显示使用graphite实现",
+                "homepage": null,
                 "id": 9493725,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-04-18T08:00:51Z",
+                "open_issues": 26,
                 "owner": "gnemoug",
                 "repo": "distribute_crawler",
-                "stars": 3236
+                "stars": 3236,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:12:08.407Z"
             },
@@ -47,12 +62,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This Scrapy project uses Redis and Kafka to create a distributed on demand scraping cluster.",
+                "homepage": "http://scrapy-cluster.readthedocs.io/",
                 "id": 33957281,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-07T12:16:25Z",
+                "open_issues": 17,
                 "owner": "istresearch",
                 "repo": "scrapy-cluster",
-                "stars": 1225
+                "stars": 1225,
+                "topics": [
+                  "distributed",
+                  "kafka",
+                  "python",
+                  "redis",
+                  "scraping",
+                  "scrapy"
+                ]
               },
               "first_seen": "2026-08-28T21:12:08.407Z"
             },
@@ -63,24 +90,51 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Creating Scrapy scrapers via the Django admin interface",
+                "homepage": "http://django-dynamic-scraper.readthedocs.io",
                 "id": 2996949,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-02-19T21:12:06Z",
+                "open_issues": 40,
                 "owner": "holgerd77",
                 "repo": "django-dynamic-scraper",
-                "stars": 1156
+                "stars": 1156,
+                "topics": [
+                  "django",
+                  "python",
+                  "scraper",
+                  "scraping",
+                  "scrapy",
+                  "spider",
+                  "webscraping"
+                ]
               },
               "first_seen": "2026-08-28T21:12:08.407Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+            "homepage": "https://scrapy.org",
             "id": 529502,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T09:53:19Z",
+            "open_issues": 448,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64082
+            "stars": 64081,
+            "topics": [
+              "crawler",
+              "crawling",
+              "framework",
+              "hacktoberfest",
+              "python",
+              "scraping",
+              "web-scraping",
+              "web-scraping-python"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -91,12 +145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":arrow_double_down: Dumb downloader that scrapes the web",
+            "homepage": "https://you-get.org/",
             "id": 5483330,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T07:23:27Z",
+            "open_issues": 386,
             "owner": "soimort",
             "repo": "you-get",
-            "stars": 56870
+            "stars": 56870,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -107,12 +166,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Powerful Spider(Web Crawler) System in Python.",
+            "homepage": "http://docs.pyspider.org/",
             "id": 17066884,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-30T19:43:29Z",
+            "open_issues": 300,
             "owner": "binux",
             "repo": "pyspider",
-            "stars": 16772
+            "stars": 16772,
+            "topics": [
+              "crawler",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -123,12 +190,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:",
+            "homepage": "https://goo.gl/VX41yK",
             "id": 14681876,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-09T07:55:32Z",
+            "open_issues": 514,
             "owner": "codelucas",
             "repo": "newspaper",
-            "stars": 15145
+            "stars": 15145,
+            "topics": [
+              "crawler",
+              "crawling",
+              "news",
+              "news-aggregator",
+              "python",
+              "scraper"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -139,12 +218,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Visual scraping for Scrapy",
+            "homepage": null,
             "id": 17982061,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-06-26T19:43:46Z",
+            "open_issues": 129,
             "owner": "scrapinghub",
             "repo": "portia",
-            "stars": 9503
+            "stars": 9503,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -155,12 +239,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python library for automating interaction with websites.",
+            "homepage": "http://mechanicalsoup.readthedocs.io/en/stable/",
             "id": 20180433,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-04T02:43:34Z",
+            "open_issues": 39,
             "owner": "MechanicalSoup",
             "repo": "MechanicalSoup",
-            "stars": 4887
+            "stars": 4887,
+            "topics": [
+              "beautifulsoup",
+              "mechanicalsoup",
+              "pypi",
+              "python",
+              "python-library",
+              "requests",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -171,12 +268,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 16653581,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-09-10T18:41:47Z",
+            "open_issues": 59,
             "owner": "jmcarp",
             "repo": "robobrowser",
-            "stars": 3692
+            "stars": 3692,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -187,12 +289,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pure-python HTML screen-scraping library",
+            "homepage": null,
             "id": 1632998,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-04-04T10:53:21Z",
+            "open_issues": 32,
             "owner": "scrapy",
             "repo": "scrapely",
-            "stars": 1883
+            "stars": 1883,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -203,12 +310,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "简单易用的Python爬虫框架，QQ交流群：597510560",
+            "homepage": "https://github.com/xianhu/PSpider",
             "id": 70978600,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-06-10T02:19:44Z",
+            "open_issues": 3,
             "owner": "xianhu",
             "repo": "PSpider",
-            "stars": 1835
+            "stars": 1835,
+            "topics": [
+              "crawler",
+              "multi-threading",
+              "multiprocessing",
+              "proxies",
+              "python",
+              "python-spider",
+              "spider",
+              "web-crawler",
+              "web-spider"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -219,12 +341,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Async Python 3.6+ web scraping micro-framework based on asyncio",
+            "homepage": "https://www.howie6879.com/ruia/",
             "id": 140359487,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-01T08:23:28Z",
+            "open_issues": 9,
             "owner": "howie6879",
             "repo": "ruia",
-            "stars": 1738
+            "stars": 1738,
+            "topics": [
+              "aiohttp",
+              "asyncio",
+              "asyncio-spider",
+              "crawler",
+              "crawling-framework",
+              "middlewares",
+              "python",
+              "python-ruia",
+              "ruia",
+              "spider",
+              "uvloop"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -235,12 +374,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A high-level distributed crawling framework.",
+            "homepage": null,
             "id": 10072612,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-07-31T00:13:43Z",
+            "open_issues": 16,
             "owner": "qinxuye",
             "repo": "cola",
-            "stars": 1499
+            "stars": 1499,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -251,12 +395,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalist and powerful Web Crawler.",
+            "homepage": null,
             "id": 96240993,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-12-05T21:22:55Z",
+            "open_issues": 1,
             "owner": "untwisted",
             "repo": "sukhoi",
-            "stars": 872
+            "stars": 872,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -267,12 +416,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The simple, easy to use command line web crawler.",
+            "homepage": null,
             "id": 91849845,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-08T14:25:58Z",
+            "open_issues": 13,
             "owner": "rivermont",
             "repo": "spidy",
-            "stars": 354
+            "stars": 354,
+            "topics": [
+              "crawler",
+              "crawling",
+              "python",
+              "python3",
+              "web-crawler",
+              "web-spider"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -283,12 +444,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spider",
+            "homepage": null,
             "id": 26670991,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2022-07-11T12:03:58Z",
+            "open_issues": 6,
             "owner": "manning23",
             "repo": "MSpider",
-            "stars": 345
+            "stars": 345,
+            "topics": [
+              "mspider"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -299,12 +467,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pythonic Crawling / Scraping Framework based on Non Blocking I/O operations.",
+            "homepage": "http://project.crawley-cloud.com",
             "id": 2339512,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-17T16:48:00Z",
+            "open_issues": 8,
             "owner": "jmg",
             "repo": "crawley",
-            "stars": 194
+            "stars": 194,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -315,12 +488,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CoCrawler is a versatile web crawler built using modern tools and concurrency.",
+            "homepage": null,
             "id": 63456910,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-04-29T15:49:14Z",
+            "open_issues": 0,
             "owner": "cocrawler",
             "repo": "cocrawler",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "aiohttp",
+              "aiohttp-client",
+              "async-python",
+              "concurrency",
+              "crawler",
+              "pluggable-modules",
+              "python3",
+              "screenshot",
+              "warc"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -331,12 +519,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Brownant is a web data extracting framework.",
+            "homepage": "https://pypi.python.org/pypi/brownant/",
             "id": 12588433,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2017-03-03T13:44:12Z",
+            "open_issues": 0,
             "owner": "douban",
             "repo": "brownant",
-            "stars": 157
+            "stars": 157,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -347,12 +540,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyQuery-based scraping micro-framework.",
+            "homepage": "http://demiurge.readthedocs.org",
             "id": 18923652,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-01-14T01:34:49Z",
+            "open_issues": 2,
             "owner": "matiasb",
             "repo": "demiurge",
-            "stars": 118
+            "stars": 118,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -363,12 +561,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Taken Over By Shad0w For Responsible Disclosure [Kiwi BBP]",
+            "homepage": null,
             "id": 1039640276,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-17T17:08:33Z",
+            "open_issues": 0,
             "owner": "gaojiuli",
             "repo": "gain",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         }
@@ -385,12 +588,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A scalable web crawler framework for Java.",
+            "homepage": "http://webmagic.io/",
             "id": 9623064,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-20T14:01:57Z",
+            "open_issues": 367,
             "owner": "code4craft",
             "repo": "webmagic",
-            "stars": 11678
+            "stars": 11680,
+            "topics": [
+              "crawler",
+              "framework",
+              "java",
+              "scraping"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -401,12 +614,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。",
+            "homepage": "https://www.spiderflow.org",
             "id": 250512612,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2023-06-14T22:27:23Z",
+            "open_issues": 23,
             "owner": "ssssssss-team",
             "repo": "spider-flow",
-            "stars": 11350
+            "stars": 11350,
+            "topics": [
+              "crawler",
+              "jsoup",
+              "spider",
+              "spider-flow",
+              "web-crawler",
+              "web-spider",
+              "webcrawler",
+              "webspider",
+              "xpath"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -417,12 +645,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Web Crawler for Java",
+            "homepage": null,
             "id": 3081071,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-04T08:31:46Z",
+            "open_issues": 188,
             "owner": "yasserg",
             "repo": "crawler4j",
-            "stars": 4619
+            "stars": 4619,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -433,12 +666,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.  ",
+            "homepage": "https://heritrix.readthedocs.io/",
             "id": 2623406,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T02:06:42Z",
+            "open_issues": 37,
             "owner": "internetarchive",
             "repo": "heritrix3",
-            "stars": 3309
+            "stars": 3309,
+            "topics": [
+              "heritrix",
+              "java",
+              "warc",
+              "webcrawling"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -449,12 +692,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebCollector is an open source web crawler framework based on Java.It provides some simple interfaces for crawling the Web,you can setup a multi-threaded web crawler in less than 5 minutes.",
+            "homepage": "https://github.com/CrawlScript/WebCollector",
             "id": 21758436,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-10T07:32:20Z",
+            "open_issues": 62,
             "owner": "CrawlScript",
             "repo": "WebCollector",
-            "stars": 3084
+            "stars": 3084,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -465,12 +713,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy to use lightweight web crawler（易用的轻量化网络爬虫）",
+            "homepage": null,
             "id": 47877714,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-01-23T12:09:19Z",
+            "open_issues": 6,
             "owner": "xtuhcy",
             "repo": "gecco",
-            "stars": 2510
+            "stars": 2510,
+            "topics": [
+              "crawler",
+              "dynamic",
+              "fastjson",
+              "gecco",
+              "java",
+              "jsoup"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -481,12 +741,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个简单、敏捷、分布式的支持SpringBoot的Java爬虫框架;An agile, distributed crawler framework.",
+            "homepage": "http://seimicrawler.org",
             "id": 45692123,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-29T05:42:38Z",
+            "open_issues": 30,
             "owner": "zhegexiaohuozi",
             "repo": "SeimiCrawler",
-            "stars": 1988
+            "stars": 1989,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -497,12 +762,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A scalable, mature and versatile web crawler based on Apache Storm",
+            "homepage": "https://stormcrawler.apache.org/",
             "id": 9395761,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T10:52:19Z",
+            "open_issues": 25,
             "owner": "apache",
             "repo": "stormcrawler",
-            "stars": 993
+            "stars": 993,
+            "topics": [
+              "apache-storm",
+              "crawler",
+              "distributed",
+              "java",
+              "stormcrawler",
+              "web-crawler"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -513,12 +790,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ACHE is a web crawler for domain-specific search.",
+            "homepage": "http://ache.readthedocs.io",
             "id": 28800030,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-31T20:48:42Z",
+            "open_issues": 42,
             "owner": "VIDA-NYU",
             "repo": "ache",
-            "stars": 486
+            "stars": 486,
+            "topics": [
+              "domain-specific-search",
+              "focused-crawler",
+              "hacktoberfest",
+              "web-crawler",
+              "web-scraping",
+              "web-search",
+              "web-spider"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -529,12 +819,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spark-Crawler: Apache Nutch-like crawler that runs on Apache Spark.",
+            "homepage": "http://irds.usc.edu/sparkler/",
             "id": 59703501,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-30T22:48:03Z",
+            "open_issues": 55,
             "owner": "USCDataScience",
             "repo": "sparkler",
-            "stars": 419
+            "stars": 419,
+            "topics": [
+              "big-data",
+              "distributed-systems",
+              "information-retrieval",
+              "nutch",
+              "search",
+              "search-engine",
+              "solr",
+              "spark",
+              "tika",
+              "web-crawler"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -545,12 +851,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Norconex Crawlers (or spiders) are flexible web and filesystem crawlers for collecting, parsing, and manipulating data from the web or filesystem to various data repositories such as search engines.",
+            "homepage": "https://opensource.norconex.com/crawlers",
             "id": 8323037,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:13:15Z",
+            "open_issues": 37,
             "owner": "Norconex",
             "repo": "crawler",
-            "stars": 204
+            "stars": 204,
+            "topics": [
+              "collector-fs",
+              "collector-http",
+              "crawler",
+              "crawlers",
+              "filesystem-crawler",
+              "flexible",
+              "java",
+              "search-engine",
+              "spider",
+              "web-crawler"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -561,12 +883,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐝 Web vertical crawler framework for fun",
+            "homepage": null,
             "id": 84517290,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2023-12-16T17:31:01Z",
+            "open_issues": 30,
             "owner": "codesofun",
             "repo": "web-bee",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "crawler",
+              "framework",
+              "java",
+              "java-8",
+              "webbee"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -582,12 +915,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Anthelion is a plugin for Apache Nutch to crawl semantic annotations within HTML pages.",
+                "homepage": "https://labs.yahoo.com/publications/6702/focused-crawling-structured-data",
                 "id": 45007173,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2015-12-17T07:21:20Z",
+                "open_issues": 4,
                 "owner": "YahooArchive",
                 "repo": "anthelion",
-                "stars": 2827
+                "stars": 2827,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:12:08.407Z"
             }
@@ -606,12 +944,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DotnetSpider, a .NET standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework",
+            "homepage": null,
             "id": 54357610,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-04-03T09:36:16Z",
+            "open_issues": 6,
             "owner": "dotnetcore",
             "repo": "DotnetSpider",
-            "stars": 4138
+            "stars": 4138,
+            "topics": [
+              "crawler",
+              "cross-platform",
+              "csharp",
+              "distributed",
+              "dotnetcore"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -622,12 +971,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "visualized crawler & ETL IDE written with C#/WPF",
+            "homepage": null,
             "id": 55284016,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2019-12-21T10:26:40Z",
+            "open_issues": 67,
             "owner": "ferventdesert",
             "repo": "Hawk",
-            "stars": 3214
+            "stars": 3214,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -638,12 +992,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross Platform C# web crawler framework built for speed and flexibility. Please star this project! +1.",
+            "homepage": null,
             "id": 11964419,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-17T21:20:00Z",
+            "open_issues": 8,
             "owner": "sjdirect",
             "repo": "abot",
-            "stars": 2310
+            "stars": 2310,
+            "topics": [
+              "abot",
+              "abot-nuget",
+              "c-sharp",
+              "crawler",
+              "cross-platform",
+              "csharp",
+              "csharp-library",
+              "javascript-renderer",
+              "netcore",
+              "netcore2",
+              "netcore3",
+              "netsta",
+              "netstandard20",
+              "netstandard21",
+              "parsing",
+              "pluggable",
+              "spider",
+              "spiders",
+              "unit-testing",
+              "web-crawler"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -654,12 +1034,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple but powerful web crawler library for .NET",
+            "homepage": null,
             "id": 163394468,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-12-15T05:08:18Z",
+            "open_issues": 12,
             "owner": "TurnerSoftware",
             "repo": "InfinityCrawler",
-            "stars": 252
+            "stars": 252,
+            "topics": [
+              "crawler",
+              "robots-txt",
+              "spider",
+              "web-crawler",
+              "web-crawling"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -670,12 +1061,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An asynchronous web scraper / web crawler using async / await and Reactive Extensions",
+            "homepage": null,
             "id": 6612960,
             "language": "C#",
+            "license": null,
             "last_commit": "2016-08-26T16:22:07Z",
+            "open_issues": 1,
             "owner": "JonCanning",
             "repo": "SkyScraper",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         }
@@ -692,12 +1088,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+            "homepage": "https://crawlee.dev",
             "id": 66670819,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:14:25Z",
+            "open_issues": 151,
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25541
+            "stars": 25542,
+            "topics": [
+              "apify",
+              "automation",
+              "crawler",
+              "crawling",
+              "headless",
+              "headless-chrome",
+              "javascript",
+              "nodejs",
+              "npm",
+              "playwright",
+              "puppeteer",
+              "scraper",
+              "scraping",
+              "typescript",
+              "web-crawler",
+              "web-crawling",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -708,12 +1127,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web Crawler/Spider for NodeJS + server-side jQuery ;-)",
+            "homepage": null,
             "id": 1111874,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-18T15:50:22Z",
+            "open_issues": 29,
             "owner": "bda-research",
             "repo": "node-crawler",
-            "stars": 6799
+            "stars": 6798,
+            "topics": [
+              "cheerio",
+              "crawler",
+              "extract-data",
+              "javascript",
+              "jquery",
+              "nodejs",
+              "spider"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -724,12 +1156,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The next web scraper. See through the <html> noise.",
+            "homepage": null,
             "id": 30329296,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-02T20:45:57Z",
+            "open_issues": 74,
             "owner": "matthewmueller",
             "repo": "x-ray",
-            "stars": 5907
+            "stars": 5907,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -740,12 +1177,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed crawler powered by Headless Chrome",
+            "homepage": null,
             "id": 112821105,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-29T20:48:51Z",
+            "open_issues": 33,
             "owner": "yujiosaka",
             "repo": "headless-chrome-crawler",
-            "stars": 5636
+            "stars": 5636,
+            "topics": [
+              "chrome",
+              "chromium",
+              "crawler",
+              "crawling",
+              "headless-chrome",
+              "jquery",
+              "promise",
+              "puppeteer",
+              "scraper",
+              "scraping"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -756,12 +1209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web scraper for NodeJS",
+            "homepage": null,
             "id": 30442018,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-12-13T04:18:37Z",
+            "open_issues": 114,
             "owner": "rchipka",
             "repo": "node-osmosis",
-            "stars": 4107
+            "stars": 4107,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -772,12 +1230,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔮 A Node.js scraper for humans.",
+            "homepage": "http://ionicabizau.net/blog/30-how-to-write-a-web-scraper-in-node-js",
             "id": 57284932,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-07T14:03:57Z",
+            "open_issues": 1,
             "owner": "IonicaBizau",
             "repo": "scrape-it",
-            "stars": 4073
+            "stars": 4073,
+            "topics": [
+              "hacktoberfest",
+              "node-scraper",
+              "scraper"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -788,12 +1255,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A complete and versatile web scraper.",
+            "homepage": null,
             "id": 22652910,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-10-18T09:34:43Z",
+            "open_issues": 27,
             "owner": "ruipgil",
             "repo": "scraperjs",
-            "stars": 3714
+            "stars": 3714,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -804,12 +1276,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Flexible event driven crawler for node.",
+            "homepage": null,
             "id": 2977773,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2021-03-07T07:25:38Z",
+            "open_issues": 66,
             "owner": "simplecrawler",
             "repo": "simplecrawler",
-            "stars": 2134
+            "stars": 2134,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -820,12 +1297,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web data extraction tool implemented as chrome extension",
+            "homepage": null,
             "id": 14648689,
             "language": "JavaScript",
+            "license": "LGPL-3.0",
             "last_commit": "2018-10-29T09:42:28Z",
+            "open_issues": 130,
             "owner": "martinsbalodis",
             "repo": "web-scraper-chrome-extension",
-            "stars": 1363
+            "stars": 1363,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -836,12 +1318,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a reliable high-level web crawling & scraping framework for Node.js.",
+            "homepage": null,
             "id": 109503867,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-03-12T13:14:06Z",
+            "open_issues": 2,
             "owner": "zhuyingda",
             "repo": "webster",
-            "stars": 559
+            "stars": 559,
+            "topics": [
+              "automation-test",
+              "automation-ui",
+              "chromium",
+              "crawler",
+              "crawling",
+              "headless-chrome",
+              "javascript",
+              "javascript-framework",
+              "nodejs",
+              "nodejs-framework",
+              "puppeteer",
+              "scraping-framework",
+              "spider"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -852,12 +1353,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web crawler. Supercrawler automatically crawls websites. Define custom handlers to parse content. Obeys robots.txt, rate limits and concurrency limits.",
+            "homepage": null,
             "id": 63552531,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-30T18:25:30Z",
+            "open_issues": 23,
             "owner": "brendonboshell",
             "repo": "supercrawler",
-            "stars": 382
+            "stars": 382,
+            "topics": [
+              "crawler",
+              "distributed-crawler",
+              "robot",
+              "sitemap",
+              "web-crawler"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -868,12 +1380,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web crawler for Node.JS",
+            "homepage": null,
             "id": 16861014,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-15T09:54:43Z",
+            "open_issues": 14,
             "owner": "amoilanen",
             "repo": "js-crawler",
-            "stars": 256
+            "stars": 256,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -884,12 +1401,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Squidwarc is a high fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head",
+            "homepage": "https://n0tan3rd.github.io/Squidwarc/",
             "id": 97801313,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2020-05-19T04:31:59Z",
+            "open_issues": 11,
             "owner": "N0taN3rd",
             "repo": "Squidwarc",
-            "stars": 178
+            "stars": 178,
+            "topics": [
+              "browser-automation",
+              "chrome",
+              "chrome-headless",
+              "crawler",
+              "crawling",
+              "headless-chrome",
+              "high-fidelity-preservation",
+              "puppeteer",
+              "webarchives",
+              "webarchiving"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         }
@@ -911,24 +1444,38 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Laravel Facade for Goutte, a simple PHP Web Scraper",
+                "homepage": null,
                 "id": 35554920,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-01-25T20:28:20Z",
+                "open_issues": 0,
                 "owner": "dweidner",
                 "repo": "laravel-goutte",
-                "stars": 447
+                "stars": 447,
+                "topics": [
+                  "facade",
+                  "goutte",
+                  "laravel"
+                ]
               },
               "first_seen": "2026-08-28T21:12:08.407Z"
             }
           ],
           "repo_info": {
             "archived": true,
+            "description": "Goutte, a simple PHP Web Scraper",
+            "homepage": null,
             "id": 622166,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-04-01T09:06:44Z",
+            "open_issues": 138,
             "owner": "FriendsOfPHP",
             "repo": "Goutte",
-            "stars": 9190
+            "stars": 9190,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -939,12 +1486,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Eases DOM navigation for HTML and XML documents",
+            "homepage": "https://symfony.com/dom-crawler",
             "id": 1398638,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-22T13:46:35Z",
+            "open_issues": 0,
             "owner": "symfony",
             "repo": "dom-crawler",
-            "stars": 4027
+            "stars": 4027,
+            "topics": [
+              "component",
+              "php",
+              "symfony",
+              "symfony-component"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -955,12 +1512,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "https://spatie.be/docs/crawler",
+            "homepage": "https://freek.dev/308-building-a-crawler-in-php",
             "id": 45406338,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-07T07:21:29Z",
+            "open_issues": 0,
             "owner": "spatie",
             "repo": "crawler",
-            "stars": 2829
+            "stars": 2829,
+            "topics": [
+              "concurrency",
+              "crawler",
+              "guzzle",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -971,12 +1538,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":spider: The progressive PHP crawler framework!  优雅的渐进式PHP采集框架。",
+            "homepage": "https://querylist.1team.top",
             "id": 48327510,
             "language": "PHP",
+            "license": null,
             "last_commit": "2026-07-11T10:23:17Z",
+            "open_issues": 3,
             "owner": "jae-jae",
             "repo": "QueryList",
-            "stars": 2691
+            "stars": 2691,
+            "topics": [
+              "crawler",
+              "querylist",
+              "scraper",
+              "spider"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -987,12 +1564,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A configurable and extensible PHP web spider",
+            "homepage": null,
             "id": 8416378,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-04T16:26:11Z",
+            "open_issues": 4,
             "owner": "mvdbos",
             "repo": "php-spider",
-            "stars": 1341
+            "stars": 1341,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -1003,12 +1585,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A universal web-util for PHP.",
+            "homepage": "https://phpscraper.de",
             "id": 257710756,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2024-04-09T15:48:23Z",
+            "open_issues": 28,
             "owner": "spekulatius",
             "repo": "PHPScraper",
-            "stars": 588
+            "stars": 588,
+            "topics": [
+              "beautifulsoup",
+              "chromium",
+              "headless-chrome",
+              "php",
+              "php-crawler",
+              "php-scraper",
+              "php-spider",
+              "php-spiders",
+              "puppeteer",
+              "pyppeteer",
+              "scraper",
+              "scraping",
+              "scraping-websites",
+              "scrapy",
+              "web-scraper",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -1019,12 +1623,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "纯 PHP 开发的并行抓取工具 (Parallel web crawler written in PHP)",
+            "homepage": null,
             "id": 8647175,
             "language": "PHP",
+            "license": null,
             "last_commit": "2015-09-16T09:21:38Z",
+            "open_issues": 1,
             "owner": "hightman",
             "repo": "pspider",
-            "stars": 265
+            "stars": 265,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -1035,12 +1644,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Crawlzone is a fast asynchronous internet crawling framework for PHP. ",
+            "homepage": null,
             "id": 158474447,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-04-19T19:06:22Z",
+            "open_issues": 9,
             "owner": "crawlzone",
             "repo": "crawlzone",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "automated-testing",
+              "crawler",
+              "crawling-framework",
+              "middleware",
+              "php",
+              "web-scraping",
+              "web-search"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         }
@@ -1057,12 +1679,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nov 20 2017 -- A distributed open source search engine and spider/crawler written in C/C++ for Linux on Intel/AMD. From gigablast dot com, which has binaries for download. See the README.md file at the very bottom of this page for instructions.",
+            "homepage": null,
             "id": 11851668,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-10T16:56:24Z",
+            "open_issues": 96,
             "owner": "gigablast",
             "repo": "open-source-search-engine",
-            "stars": 1600
+            "stars": 1600,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         }
@@ -1079,12 +1706,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTrack Website Copier, copy websites to your computer (Official repository)",
+            "homepage": "http://www.httrack.com/",
             "id": 32202165,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T13:37:52Z",
+            "open_issues": 9,
             "owner": "xroche",
             "repo": "httrack",
-            "stars": 4707
+            "stars": 4707,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         }
@@ -1101,12 +1733,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.",
+            "homepage": "https://nokogiri.org/",
             "id": 33945,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-26T13:18:56Z",
+            "open_issues": 115,
             "owner": "sparklemotion",
             "repo": "nokogiri",
-            "stars": 6277
+            "stars": 6277,
+            "topics": [
+              "libxml2",
+              "libxslt",
+              "nokogiri",
+              "ruby",
+              "ruby-gem",
+              "sax",
+              "xerces",
+              "xml",
+              "xslt"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -1117,12 +1764,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mechanize is a ruby library that makes automated web interaction easy.",
+            "homepage": "https://www.rubydoc.info/gems/mechanize/",
             "id": 10910,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-23T01:39:34Z",
+            "open_issues": 9,
             "owner": "sparklemotion",
             "repo": "mechanize",
-            "stars": 4439
+            "stars": 4439,
+            "topics": [
+              "ruby",
+              "scraping",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -1133,12 +1789,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)",
+            "homepage": null,
             "id": 10364296,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2018-12-26T02:48:38Z",
+            "open_issues": 11,
             "owner": "propublica",
             "repo": "upton",
-            "stars": 1597
+            "stars": 1597,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -1149,12 +1810,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.",
+            "homepage": "https://felipecsl.github.io/wombat/",
             "id": 2770180,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-04-07T16:28:13Z",
+            "open_issues": 24,
             "owner": "felipecsl",
             "repo": "wombat",
-            "stars": 1360
+            "stars": 1360,
+            "topics": [
+              "crawler",
+              "dsl",
+              "ruby",
+              "scraper"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -1165,12 +1836,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.",
+            "homepage": null,
             "id": 145726,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-01-12T09:23:16Z",
+            "open_issues": 16,
             "owner": "postmodern",
             "repo": "spidr",
-            "stars": 836
+            "stars": 836,
+            "topics": [
+              "crawler",
+              "ruby",
+              "scraper",
+              "spider",
+              "spider-links",
+              "web",
+              "web-crawler",
+              "web-scraper",
+              "web-scraping",
+              "web-spider"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -1181,12 +1868,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web crawler with very flexible crawling options.  Can either use standalone or can be used with resque to perform clustered crawls.",
+            "homepage": null,
             "id": 1068118,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-01T00:55:02Z",
+            "open_issues": 20,
             "owner": "stewartmckee",
             "repo": "cobweb",
-            "stars": 224
+            "stars": 224,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -1197,12 +1889,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Asynchronous Web Crawler & Scraper",
+            "homepage": "http://norton.io/rubyretriever/",
             "id": 4320426,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-23T03:34:56Z",
+            "open_issues": 6,
             "owner": "joenorton",
             "repo": "rubyretriever",
-            "stars": 142
+            "stars": 142,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         }
@@ -1219,12 +1916,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get web data for AI agents and LLMs - fast, efficient, and reliable with Rust",
+            "homepage": "https://spider.cloud/github",
             "id": 116590428,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-19T13:42:57Z",
+            "open_issues": 0,
             "owner": "spider-rs",
             "repo": "spider",
-            "stars": 2679
+            "stars": 2680,
+            "topics": [
+              "ai-agent",
+              "automation",
+              "crawler",
+              "headless-chrome",
+              "rust",
+              "scraping",
+              "spider",
+              "web-crawler",
+              "web-data",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -1235,12 +1948,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "gRPC web crawler turbo charged for performance",
+            "homepage": "https://docs.rs/crate/website_crawler/latest",
             "id": 351596803,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-08-26T17:38:04Z",
+            "open_issues": 0,
             "owner": "a11ywatch",
             "repo": "crawler",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "a11ywatch",
+              "crawler",
+              "grpc",
+              "scraper"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         }
@@ -1257,12 +1980,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple web scraping for R",
+            "homepage": "https://rvest.tidyverse.org",
             "id": 22178685,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-09T10:02:49Z",
+            "open_issues": 39,
             "owner": "tidyverse",
             "repo": "rvest",
-            "stars": 1520
+            "stars": 1520,
+            "topics": [
+              "html",
+              "r",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         }
@@ -1279,12 +2011,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ebot, an Opensource Web Crawler built on top of a nosql database (apache couchdb, riak), AMQP database (rabbitmq), webmachine and mochiweb. Ebot is written in Erlang and it is a very scalable, distribuited and highly configurable web cawler. See wiki pages for more details",
+            "homepage": "http://www.redaelli.org/matteo-blog/projects/ebot",
             "id": 593966,
             "language": "Erlang",
+            "license": "GPL-3.0",
             "last_commit": "2011-04-08T19:54:55Z",
+            "open_issues": 10,
             "owner": "matteoredaelli",
             "repo": "ebot",
-            "stars": 329
+            "stars": 329,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         }
@@ -1301,12 +2038,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Perl web scraping toolkit",
+            "homepage": "http://search.cpan.org/dist/Web-Scraper",
             "id": 105434,
             "language": "Perl",
+            "license": "NOASSERTION",
             "last_commit": "2017-04-26T01:43:06Z",
+            "open_issues": 9,
             "owner": "miyagawa",
             "repo": "web-scraper",
-            "stars": 102
+            "stars": 102,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         }
@@ -1323,12 +2065,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elegant Scraper and Crawler Framework for Golang",
+            "homepage": "https://go-colly.org/",
             "id": 105279544,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-14T14:37:32Z",
+            "open_issues": 193,
             "owner": "gocolly",
             "repo": "colly",
-            "stars": 25489
+            "stars": 25488,
+            "topics": [
+              "crawler",
+              "crawling",
+              "framework",
+              "go",
+              "golang",
+              "scraper",
+              "scraping",
+              "spider"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -1339,12 +2095,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pholcus is a distributed high-concurrency crawler software written in pure golang",
+            "homepage": null,
             "id": 38499784,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T03:24:17Z",
+            "open_issues": 3,
             "owner": "andeya",
             "repo": "pholcus",
-            "stars": 7577
+            "stars": 7577,
+            "topics": [
+              "crowler",
+              "spider"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -1355,12 +2119,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Declarative data automation language and Go runtime for structured extraction workflows.",
+            "homepage": "https://www.ferretlang.org",
             "id": 145790679,
             "language": "Go",
-            "last_commit": "2026-08-28T20:03:11Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:34:42Z",
+            "open_issues": 12,
             "owner": "MontFerret",
             "repo": "ferret",
-            "stars": 6008
+            "stars": 6008,
+            "topics": [
+              "browser-automation",
+              "chrome-devtools-protocol",
+              "data-automation",
+              "data-extraction",
+              "dsl",
+              "go",
+              "golang",
+              "golang-library",
+              "html",
+              "library",
+              "query-language",
+              "runtime",
+              "web-crawling",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -1371,12 +2155,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application",
+            "homepage": "https://hakluke.com",
             "id": 228192593,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-05T04:05:39Z",
+            "open_issues": 9,
             "owner": "hakluke",
             "repo": "hakrawler",
-            "stars": 5116
+            "stars": 5116,
+            "topics": [
+              "bugbounty",
+              "crawling",
+              "hacking",
+              "osint",
+              "pentesting",
+              "recon",
+              "reconnaissance"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -1387,12 +2184,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BitTorrent DHT Protocol && DHT Spider.",
+            "homepage": "http://bthub.io",
             "id": 65117543,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-08-17T01:48:19Z",
+            "open_issues": 13,
             "owner": "yann-shi",
             "repo": "dht",
-            "stars": 2769
+            "stars": 2769,
+            "topics": [
+              "bittorrent-dht-protocol",
+              "dht",
+              "go",
+              "spider"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -1403,12 +2210,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Polite, slim and concurrent web crawler.",
+            "homepage": null,
             "id": 5865837,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-05-19T15:15:33Z",
+            "open_issues": 6,
             "owner": "PuerkitoBio",
             "repo": "gocrawl",
-            "stars": 2052
+            "stars": 2052,
+            "topics": [
+              "crawler",
+              "robots-txt"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -1419,12 +2234,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[爬虫框架 (golang)] An awesome Go concurrent Crawler(spider) framework. The crawler is flexible and modular. It can be expanded to an Individualized crawler easily or you can use the default crawl components only. ",
+            "homepage": null,
             "id": 19928024,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2017-11-16T01:58:55Z",
+            "open_issues": 22,
             "owner": "hu17889",
             "repo": "go_spider",
-            "stars": 1818
+            "stars": 1818,
+            "topics": [
+              "crawler",
+              "go",
+              "pipeline",
+              "schedule",
+              "spider"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -1435,12 +2261,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A simple, higher level interface for Go web scraping.",
+            "homepage": null,
             "id": 35834749,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2016-11-28T14:46:10Z",
+            "open_issues": 3,
             "owner": "yhat",
             "repo": "scrape",
-            "stars": 1516
+            "stars": 1516,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -1451,12 +2282,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple and flexible web crawler that follows the robots.txt policies and crawl delays.",
+            "homepage": null,
             "id": 15673762,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-05-19T15:11:17Z",
+            "open_issues": 2,
             "owner": "PuerkitoBio",
             "repo": "fetchbot",
-            "stars": 790
+            "stars": 790,
+            "topics": [
+              "crawler",
+              "robots-txt"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -1467,12 +2306,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":paw_prints: Creeper - The Next Generation Crawler Framework (Go)",
+            "homepage": null,
             "id": 82251024,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2017-05-16T12:14:14Z",
+            "open_issues": 5,
             "owner": "wspl",
             "repo": "creeper",
-            "stars": 777
+            "stars": 777,
+            "topics": [
+              "crawler",
+              "cross-platform",
+              "framework",
+              "golang",
+              "language",
+              "script",
+              "spider"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -1483,12 +2335,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extract structured data from web sites. Web sites scraping.  ",
+            "homepage": "https://dataflowkit.com",
             "id": 81462386,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-03-07T00:03:55Z",
+            "open_issues": 4,
             "owner": "slotix",
             "repo": "dataflowkit",
-            "stars": 716
+            "stars": 716,
+            "topics": [
+              "cdp",
+              "chrome-fetcher",
+              "crawling",
+              "extract-data",
+              "go",
+              "golang",
+              "golang-library",
+              "headless",
+              "scraper",
+              "scraping",
+              "scraping-websites"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -1499,12 +2368,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "open source, distributed, restful crawler engine in golang",
+            "homepage": null,
             "id": 30175803,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2016-04-05T05:03:38Z",
+            "open_issues": 4,
             "owner": "wcong",
             "repo": "ants-go",
-            "stars": 360
+            "stars": 360,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         }
@@ -1521,12 +2395,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scala DSL for web crawling",
+            "homepage": null,
             "id": 2807639,
             "language": "Scala",
+            "license": "NOASSERTION",
             "last_commit": "2016-08-02T21:33:54Z",
+            "open_issues": 2,
             "owner": "bplawler",
             "repo": "crawler",
-            "stars": 148
+            "stars": 148,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         },
@@ -1537,12 +2416,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unmaintained :whale: :coffee: :spider: Scala crawler(spider) framework, inspired by scrapy, created by @gaocegege",
+            "homepage": "http://dongyueweb.com/scrala/",
             "id": 45529010,
             "language": "Scala",
+            "license": null,
             "last_commit": "2019-10-05T15:36:58Z",
+            "open_issues": 1,
             "owner": "dyweb",
             "repo": "scrala",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "actor-model",
+              "docker",
+              "scala",
+              "scrapy",
+              "spider"
+            ]
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
         }
@@ -1551,15 +2441,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:12:08.407Z",
+    "last_updated": "2026-08-29T04:14:23.454Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of awesome web crawler,spider in different languages",
+      "homepage": null,
       "id": 70459317,
       "language": null,
+      "license": "MIT",
       "last_commit": "2024-06-16T17:03:36Z",
+      "open_issues": 41,
       "owner": "BruceDone",
       "repo": "awesome-crawler",
-      "stars": 7298
+      "stars": 7298,
+      "topics": [
+        "awesome",
+        "crawler",
+        "node-crawler",
+        "scraper",
+        "spider",
+        "web-crawler",
+        "web-scraper"
+      ]
     },
     "original_repository_sha": "832efd3e8f8af1350be3450d9b7636a8523fc4b2",
     "enhanced_repository": "enhansome/enhansome-crawler",
