@@ -120,11 +120,11 @@
             "id": 529502,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-09T11:01:37Z",
-            "open_issues": 400,
+            "last_commit": "2026-09-10T13:19:12Z",
+            "open_issues": 395,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64260,
+            "stars": 64273,
             "topics": [
               "crawler",
               "crawling",
@@ -154,7 +154,7 @@
             "open_issues": 386,
             "owner": "soimort",
             "repo": "you-get",
-            "stars": 56880,
+            "stars": 56878,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
@@ -175,7 +175,7 @@
             "open_issues": 300,
             "owner": "binux",
             "repo": "pyspider",
-            "stars": 16766,
+            "stars": 16765,
             "topics": [
               "crawler",
               "python"
@@ -248,7 +248,7 @@
             "open_issues": 39,
             "owner": "MechanicalSoup",
             "repo": "MechanicalSoup",
-            "stars": 4887,
+            "stars": 4891,
             "topics": [
               "beautifulsoup",
               "mechanicalsoup",
@@ -277,7 +277,7 @@
             "open_issues": 59,
             "owner": "jmcarp",
             "repo": "robobrowser",
-            "stars": 3690,
+            "stars": 3689,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
@@ -507,7 +507,7 @@
             "open_issues": 8,
             "owner": "jmg",
             "repo": "crawley",
-            "stars": 193,
+            "stars": 192,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
@@ -623,7 +623,7 @@
             "open_issues": 23,
             "owner": "ssssssss-team",
             "repo": "spider-flow",
-            "stars": 11352,
+            "stars": 11351,
             "topics": [
               "crawler",
               "jsoup",
@@ -654,7 +654,7 @@
             "open_issues": 189,
             "owner": "yasserg",
             "repo": "crawler4j",
-            "stars": 4619,
+            "stars": 4618,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
@@ -671,11 +671,11 @@
             "id": 2623406,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T05:22:13Z",
-            "open_issues": 38,
+            "last_commit": "2026-09-10T08:30:00Z",
+            "open_issues": 37,
             "owner": "internetarchive",
             "repo": "heritrix3",
-            "stars": 3316,
+            "stars": 3318,
             "topics": [
               "heritrix",
               "java",
@@ -722,7 +722,7 @@
             "open_issues": 6,
             "owner": "xtuhcy",
             "repo": "gecco",
-            "stars": 2511,
+            "stars": 2512,
             "topics": [
               "crawler",
               "dynamic",
@@ -767,8 +767,8 @@
             "id": 9395761,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T09:51:55Z",
-            "open_issues": 59,
+            "last_commit": "2026-09-10T11:19:20Z",
+            "open_issues": 50,
             "owner": "apache",
             "repo": "stormcrawler",
             "stars": 995,
@@ -819,26 +819,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Spark-Crawler: Apache Nutch-like crawler that runs on Apache Spark.",
-            "homepage": "http://irds.usc.edu/sparkler/",
+            "description": "A crawl workstation: View, Control, and Crawl. Solr CrawlDB, Tika, Vue 3.",
+            "homepage": "https://github.com/chrismattmann/sparkler/wiki",
             "id": 59703501,
-            "language": "Java",
+            "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2023-03-30T22:48:03Z",
-            "open_issues": 55,
-            "owner": "USCDataScience",
+            "last_commit": "2026-09-09T21:52:02Z",
+            "open_issues": 0,
+            "owner": "chrismattmann",
             "repo": "sparkler",
             "stars": 419,
             "topics": [
-              "big-data",
-              "distributed-systems",
+              "crawler",
+              "fastapi",
               "information-retrieval",
-              "nutch",
-              "search",
-              "search-engine",
               "solr",
-              "spark",
               "tika",
+              "vue",
               "web-crawler"
             ]
           },
@@ -953,7 +950,7 @@
             "open_issues": 6,
             "owner": "dotnetcore",
             "repo": "DotnetSpider",
-            "stars": 4137,
+            "stars": 4138,
             "topics": [
               "crawler",
               "cross-platform",
@@ -1001,7 +998,7 @@
             "open_issues": 8,
             "owner": "sjdirect",
             "repo": "abot",
-            "stars": 2308,
+            "stars": 2309,
             "topics": [
               "abot",
               "abot-nuget",
@@ -1093,11 +1090,11 @@
             "id": 66670819,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T14:39:16Z",
-            "open_issues": 142,
+            "last_commit": "2026-09-10T12:55:19Z",
+            "open_issues": 139,
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25706,
+            "stars": 25721,
             "topics": [
               "apify",
               "automation",
@@ -1474,7 +1471,7 @@
             "open_issues": 138,
             "owner": "FriendsOfPHP",
             "repo": "Goutte",
-            "stars": 9188,
+            "stars": 9187,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
@@ -1711,11 +1708,11 @@
             "id": 32202165,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T14:35:12Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-10T14:23:11Z",
+            "open_issues": 10,
             "owner": "xroche",
             "repo": "httrack",
-            "stars": 4732,
+            "stars": 4736,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
@@ -1925,7 +1922,7 @@
             "open_issues": 0,
             "owner": "spider-rs",
             "repo": "spider",
-            "stars": 2704,
+            "stars": 2706,
             "topics": [
               "ai-agent",
               "automation",
@@ -2074,7 +2071,7 @@
             "open_issues": 194,
             "owner": "gocolly",
             "repo": "colly",
-            "stars": 25502,
+            "stars": 25504,
             "topics": [
               "crawler",
               "crawling",
@@ -2104,7 +2101,7 @@
             "open_issues": 3,
             "owner": "andeya",
             "repo": "pholcus",
-            "stars": 7578,
+            "stars": 7579,
             "topics": [
               "crowler",
               "spider"
@@ -2124,8 +2121,8 @@
             "id": 145790679,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T12:08:43Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-10T02:37:03Z",
+            "open_issues": 14,
             "owner": "MontFerret",
             "repo": "ferret",
             "stars": 6009,
@@ -2441,7 +2438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T14:40:34.646Z",
+    "last_updated": "2026-09-10T14:31:29.964Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome web crawler,spider in different languages",
@@ -2453,7 +2450,7 @@
       "open_issues": 41,
       "owner": "BruceDone",
       "repo": "awesome-crawler",
-      "stars": 7303,
+      "stars": 7305,
       "topics": [
         "awesome",
         "crawler",
