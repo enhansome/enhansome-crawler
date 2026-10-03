@@ -120,11 +120,11 @@
             "id": 529502,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T22:24:31Z",
-            "open_issues": 313,
+            "last_commit": "2026-10-03T12:37:00Z",
+            "open_issues": 317,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64557,
+            "stars": 64564,
             "topics": [
               "crawler",
               "crawling",
@@ -154,7 +154,7 @@
             "open_issues": 386,
             "owner": "soimort",
             "repo": "you-get",
-            "stars": 56870,
+            "stars": 56869,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
@@ -199,7 +199,7 @@
             "open_issues": 515,
             "owner": "codelucas",
             "repo": "newspaper",
-            "stars": 15170,
+            "stars": 15171,
             "topics": [
               "crawler",
               "crawling",
@@ -623,7 +623,7 @@
             "open_issues": 24,
             "owner": "ssssssss-team",
             "repo": "spider-flow",
-            "stars": 11354,
+            "stars": 11356,
             "topics": [
               "crawler",
               "jsoup",
@@ -675,7 +675,7 @@
             "open_issues": 36,
             "owner": "internetarchive",
             "repo": "heritrix3",
-            "stars": 3327,
+            "stars": 3328,
             "topics": [
               "heritrix",
               "java",
@@ -767,8 +767,8 @@
             "id": 9395761,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T19:15:15Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-03T06:50:08Z",
+            "open_issues": 23,
             "owner": "apache",
             "repo": "stormcrawler",
             "stars": 1004,
@@ -1094,7 +1094,7 @@
             "open_issues": 134,
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25974,
+            "stars": 25977,
             "topics": [
               "apify",
               "automation",
@@ -1712,7 +1712,7 @@
             "open_issues": 2,
             "owner": "xroche",
             "repo": "httrack",
-            "stars": 4775,
+            "stars": 4776,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
@@ -1982,11 +1982,11 @@
             "id": 22178685,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T22:25:03Z",
-            "open_issues": 35,
+            "last_commit": "2026-10-03T12:47:26Z",
+            "open_issues": 29,
             "owner": "tidyverse",
             "repo": "rvest",
-            "stars": 1522,
+            "stars": 1524,
             "topics": [
               "html",
               "r",
@@ -2071,7 +2071,7 @@
             "open_issues": 194,
             "owner": "gocolly",
             "repo": "colly",
-            "stars": 25544,
+            "stars": 25545,
             "topics": [
               "crawler",
               "crawling",
@@ -2161,7 +2161,7 @@
             "open_issues": 9,
             "owner": "hakluke",
             "repo": "hakrawler",
-            "stars": 5139,
+            "stars": 5140,
             "topics": [
               "bugbounty",
               "crawling",
@@ -2190,7 +2190,7 @@
             "open_issues": 13,
             "owner": "yann-shi",
             "repo": "dht",
-            "stars": 2770,
+            "stars": 2771,
             "topics": [
               "bittorrent-dht-protocol",
               "dht",
@@ -2267,7 +2267,7 @@
             "open_issues": 3,
             "owner": "yhat",
             "repo": "scrape",
-            "stars": 1514,
+            "stars": 1513,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
@@ -2438,7 +2438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:37:18.350Z",
+    "last_updated": "2026-10-03T14:46:23.924Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome web crawler,spider in different languages",
