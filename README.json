@@ -24,7 +24,7 @@
                 "open_issues": 40,
                 "owner": "rmax",
                 "repo": "scrapy-redis",
-                "stars": 5643,
+                "stars": 5644,
                 "topics": [
                   "crawler",
                   "distributed",
@@ -120,11 +120,11 @@
             "id": 529502,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-16T14:19:56Z",
-            "open_issues": 224,
+            "last_commit": "2026-10-16T16:32:55Z",
+            "open_issues": 226,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64853,
+            "stars": 64863,
             "topics": [
               "crawler",
               "crawling",
@@ -154,7 +154,7 @@
             "open_issues": 384,
             "owner": "soimort",
             "repo": "you-get",
-            "stars": 56861,
+            "stars": 56859,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
@@ -248,7 +248,7 @@
             "open_issues": 37,
             "owner": "MechanicalSoup",
             "repo": "MechanicalSoup",
-            "stars": 4897,
+            "stars": 4898,
             "topics": [
               "beautifulsoup",
               "mechanicalsoup",
@@ -597,7 +597,7 @@
             "open_issues": 367,
             "owner": "code4craft",
             "repo": "webmagic",
-            "stars": 11669,
+            "stars": 11670,
             "topics": [
               "crawler",
               "framework",
@@ -623,7 +623,7 @@
             "open_issues": 23,
             "owner": "ssssssss-team",
             "repo": "spider-flow",
-            "stars": 11361,
+            "stars": 11362,
             "topics": [
               "crawler",
               "jsoup",
@@ -671,11 +671,11 @@
             "id": 2623406,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T23:22:26Z",
+            "last_commit": "2026-10-16T17:27:01Z",
             "open_issues": 34,
             "owner": "internetarchive",
             "repo": "heritrix3",
-            "stars": 3333,
+            "stars": 3335,
             "topics": [
               "heritrix",
               "java",
@@ -750,7 +750,7 @@
             "open_issues": 30,
             "owner": "zhegexiaohuozi",
             "repo": "SeimiCrawler",
-            "stars": 1986,
+            "stars": 1987,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
@@ -767,8 +767,8 @@
             "id": 9395761,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T12:51:59Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-16T15:48:42Z",
+            "open_issues": 23,
             "owner": "apache",
             "repo": "stormcrawler",
             "stars": 1008,
@@ -921,7 +921,7 @@
                 "open_issues": 4,
                 "owner": "YahooArchive",
                 "repo": "anthelion",
-                "stars": 2823,
+                "stars": 2824,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:12:08.407Z"
@@ -1090,11 +1090,11 @@
             "id": 66670819,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T10:10:27Z",
-            "open_issues": 151,
+            "last_commit": "2026-10-16T20:35:23Z",
+            "open_issues": 155,
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 26168,
+            "stars": 26176,
             "topics": [
               "apify",
               "automation",
@@ -1282,7 +1282,7 @@
             "open_issues": 66,
             "owner": "simplecrawler",
             "repo": "simplecrawler",
-            "stars": 2130,
+            "stars": 2128,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
@@ -1450,7 +1450,7 @@
                 "open_issues": 0,
                 "owner": "dweidner",
                 "repo": "laravel-goutte",
-                "stars": 446,
+                "stars": 445,
                 "topics": [
                   "facade",
                   "goutte",
@@ -1708,11 +1708,11 @@
             "id": 32202165,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-16T14:12:41Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-17T13:35:44Z",
+            "open_issues": 1,
             "owner": "xroche",
             "repo": "httrack",
-            "stars": 4787,
+            "stars": 4788,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:08.407Z"
@@ -1918,11 +1918,11 @@
             "id": 116590428,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-01T21:26:06Z",
+            "last_commit": "2026-10-16T18:52:48Z",
             "open_issues": 3,
             "owner": "spider-rs",
             "repo": "spider",
-            "stars": 2783,
+            "stars": 2784,
             "topics": [
               "ai-agent",
               "automation",
@@ -2071,7 +2071,7 @@
             "open_issues": 193,
             "owner": "gocolly",
             "repo": "colly",
-            "stars": 25552,
+            "stars": 25553,
             "topics": [
               "crawler",
               "crawling",
@@ -2101,7 +2101,7 @@
             "open_issues": 4,
             "owner": "andeya",
             "repo": "pholcus",
-            "stars": 7581,
+            "stars": 7582,
             "topics": [
               "crowler",
               "spider"
@@ -2121,11 +2121,11 @@
             "id": 145790679,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T19:27:53Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-16T20:04:41Z",
+            "open_issues": 12,
             "owner": "MontFerret",
             "repo": "ferret",
-            "stars": 6012,
+            "stars": 6011,
             "topics": [
               "browser-automation",
               "chrome-devtools-protocol",
@@ -2438,7 +2438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T14:55:59.738Z",
+    "last_updated": "2026-10-17T13:48:26.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome web crawler,spider in different languages",
@@ -2450,7 +2450,7 @@
       "open_issues": 39,
       "owner": "BruceDone",
       "repo": "awesome-crawler",
-      "stars": 7332,
+      "stars": 7333,
       "topics": [
         "awesome",
         "crawler",
