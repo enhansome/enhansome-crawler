@@ -21,16 +21,16 @@ A collection of awesome web crawler,spider and resources in different languages.
 
 ## Python
 
-* [Scrapy](https://github.com/scrapy/scrapy) ⭐ 64,973 | 🐛 173 | 🌐 Python | 📅 2026-10-22 - A fast high-level screen scraping and web crawling framework.
+* [Scrapy](https://github.com/scrapy/scrapy) ⭐ 64,986 | 🐛 173 | 🌐 Python | 📅 2026-10-22 - A fast high-level screen scraping and web crawling framework.
   * [Scrapy-Redis](https://github.com/rolando/scrapy-redis) ⭐ 5,647 | 🐛 40 | 🌐 Python | 📅 2026-09-17 - Redis-based components for Scrapy.
   * [distribute\_crawler](https://github.com/gnemoug/distribute_crawler) ⭐ 3,233 | 🐛 26 | 🌐 Python | 📅 2017-04-18 - Uses scrapy,redis, mongodb,graphite to create a distributed spider.
   * [scrapy-cluster](https://github.com/istresearch/scrapy-cluster) ⚠️ Archived - Uses Redis and Kafka to create a distributed on demand scraping cluster.
   * [django-dynamic-scraper](https://github.com/holgerd77/django-dynamic-scraper) ⭐ 1,154 | 🐛 40 | 🌐 Python | 📅 2022-02-19 - Creating Scrapy scrapers via the Django admin interface.
-* [you-get](https://github.com/soimort/you-get) ⭐ 56,858 | 🐛 384 | 🌐 Python | 📅 2026-10-06 -  Dumb downloader that scrapes the web.
+* [you-get](https://github.com/soimort/you-get) ⭐ 56,859 | 🐛 384 | 🌐 Python | 📅 2026-10-06 -  Dumb downloader that scrapes the web.
 * [pyspider](https://github.com/binux/pyspider) ⚠️ Archived - A powerful spider system.
 * [newspaper](https://github.com/codelucas/newspaper) ⭐ 15,180 | 🐛 513 | 🌐 Python | 📅 2026-10-19 - News, full-text, and article metadata extraction in Python 3
 * [portia](https://github.com/scrapinghub/portia) ⚠️ Archived - Visual scraping for Scrapy.
-* [MechanicalSoup](https://github.com/hickford/MechanicalSoup) ⭐ 4,899 | 🐛 39 | 🌐 Python | 📅 2026-10-07 - A Python library for automating interaction with websites.
+* [MechanicalSoup](https://github.com/hickford/MechanicalSoup) ⭐ 4,898 | 🐛 40 | 🌐 Python | 📅 2026-10-07 - A Python library for automating interaction with websites.
 * [RoboBrowser](https://github.com/jmcarp/robobrowser) ⭐ 3,688 | 🐛 58 | 🌐 Python | 📅 2020-09-10 - A simple, Pythonic library for browsing the web without a standalone web browser.
 * [Scrapely](https://github.com/scrapy/scrapely) ⭐ 1,884 | 🐛 32 | 🌐 HTML | 📅 2022-04-04 - A pure-python HTML screen-scraping library.
 * [PSpider](https://github.com/xianhu/PSpider) ⭐ 1,830 | 🐛 3 | 🌐 Python | 📅 2022-06-10 - A simple spider frame in Python3.
@@ -48,17 +48,17 @@ A collection of awesome web crawler,spider and resources in different languages.
 
 ## Java
 
-* [Webmagic](https://github.com/code4craft/webmagic) ⭐ 11,670 | 🐛 367 | 🌐 Java | 📅 2025-12-20 - A scalable crawler framework.
+* [Webmagic](https://github.com/code4craft/webmagic) ⭐ 11,671 | 🐛 367 | 🌐 Java | 📅 2025-12-20 - A scalable crawler framework.
 * [spider-flow](https://github.com/ssssssss-team/spider-flow) ⭐ 11,359 | 🐛 23 | 🌐 Java | 📅 2023-06-14 - A visual spider framework, it's so good that you don't need to write any code to crawl the website.
 * [Crawler4j](https://github.com/yasserg/crawler4j) ⭐ 4,619 | 🐛 189 | 🌐 Java | 📅 2021-11-04 - Simple and lightweight web crawler.
-* [Heritrix3](https://github.com/internetarchive/heritrix3) ⭐ 3,340 | 🐛 34 | 🌐 Java | 📅 2026-10-19 -  Extensible, web-scale, archival-quality web crawler project.
+* [Heritrix3](https://github.com/internetarchive/heritrix3) ⭐ 3,341 | 🐛 34 | 🌐 Java | 📅 2026-10-19 -  Extensible, web-scale, archival-quality web crawler project.
 * [WebCollector](https://github.com/CrawlScript/WebCollector) ⭐ 3,078 | 🐛 63 | 🌐 Java | 📅 2026-02-10 - Simple interfaces for crawling the Web,you can setup a multi-threaded web crawler in less than 5 minutes.
 * [Gecco](https://github.com/xtuhcy/gecco) ⭐ 2,512 | 🐛 6 | 🌐 Java | 📅 2026-10-09 - A easy to use lightweight web crawler
 * [SeimiCrawler](https://github.com/zhegexiaohuozi/SeimiCrawler) ⭐ 1,987 | 🐛 30 | 🌐 Java | 📅 2026-10-15 - An agile, distributed crawler framework.
-* [StormCrawler](http://github.com/DigitalPebble/storm-crawler/) ⭐ 1,008 | 🐛 15 | 🌐 Java | 📅 2026-10-23 - An open source collection of resources for building low-latency, scalable web crawlers on Apache Storm
+* [StormCrawler](http://github.com/DigitalPebble/storm-crawler/) ⭐ 1,009 | 🐛 14 | 🌐 Java | 📅 2026-10-24 - An open source collection of resources for building low-latency, scalable web crawlers on Apache Storm
 * [ACHE Crawler](https://github.com/ViDA-NYU/ache) ⭐ 486 | 🐛 42 | 🌐 Java | 📅 2025-08-31 - An easy to use web crawler for domain-specific search.
 * [Spark-Crawler](https://github.com/USCDataScience/sparkler) ⭐ 419 | 🐛 2 | 🌐 Python | 📅 2026-10-21 - Evolving Apache Nutch to run on Spark.
-* [Norconex Web Crawler](https://github.com/Norconex/collector-http) ⭐ 205 | 🐛 39 | 🌐 Java | 📅 2026-10-13 - Norconex HTTP Collector is a full-featured web crawler (or spider) that can manipulate and store collected data into a repository of your choice (e.g. a search engine). Can be used as a stand alone application or be embedded into Java applications.
+* [Norconex Web Crawler](https://github.com/Norconex/collector-http) ⭐ 205 | 🐛 39 | 🌐 Java | 📅 2026-10-24 - Norconex HTTP Collector is a full-featured web crawler (or spider) that can manipulate and store collected data into a repository of your choice (e.g. a search engine). Can be used as a stand alone application or be embedded into Java applications.
 * [webBee](https://github.com/pkwenda/webBee) ⭐ 193 | 🐛 30 | 🌐 Java | 📅 2023-12-16 - A DFS web spider.
 * [Apache Nutch](http://nutch.apache.org/) - Highly extensible, highly scalable web crawler for production environment.
   * [anthelion](https://github.com/yahoo/anthelion) ⚠️ Archived - A plugin for Apache Nutch to crawl semantic annotations within HTML pages.
@@ -80,7 +80,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 
 ## JavaScript
 
-* [crawlee](https://github.com/apify/crawlee) ⭐ 26,234 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-23 - A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
+* [crawlee](https://github.com/apify/crawlee) ⭐ 26,247 | 🐛 147 | 🌐 TypeScript | 📅 2026-10-23 - A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 * [node-crawler](https://github.com/bda-research/node-crawler) ⭐ 6,796 | 🐛 30 | 🌐 TypeScript | 📅 2026-06-18 - Node-crawler has clean,simple api.
 * [x-ray](https://github.com/lapwinglabs/x-ray) ⭐ 5,902 | 🐛 74 | 🌐 JavaScript | 📅 2026-08-31 - Web scraper with pagination and crawler support.
 * [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) ⭐ 5,634 | 🐛 33 | 🌐 JavaScript | 📅 2023-04-29 - Headless Chrome crawls with jQuery support
@@ -98,9 +98,9 @@ A collection of awesome web crawler,spider and resources in different languages.
 
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) ⚠️ Archived - A screen scraping and web crawling library for PHP.
   * [laravel-goutte](https://github.com/dweidner/laravel-goutte) ⚠️ Archived - Laravel 5 Facade for Goutte.
-* [dom-crawler](https://github.com/symfony/dom-crawler) ⭐ 4,026 | 🐛 0 | 🌐 PHP | 📅 2026-10-21 - The DomCrawler component eases DOM navigation for HTML and XML documents.
+* [dom-crawler](https://github.com/symfony/dom-crawler) ⭐ 4,026 | 🐛 0 | 🌐 PHP | 📅 2026-10-23 - The DomCrawler component eases DOM navigation for HTML and XML documents.
 * [spatie/crawler](https://github.com/spatie/crawler) ⭐ 2,829 | 🐛 0 | 🌐 PHP | 📅 2026-10-22 - An easy to use, powerful crawler implemented in PHP. Can execute Javascript.
-* [QueryList](https://github.com/jae-jae/QueryList) ⭐ 2,690 | 🐛 4 | 🌐 PHP | 📅 2026-10-20 - The progressive PHP crawler framework.
+* [QueryList](https://github.com/jae-jae/QueryList) ⭐ 2,691 | 🐛 4 | 🌐 PHP | 📅 2026-10-20 - The progressive PHP crawler framework.
 * [php-spider](https://github.com/mvdbos/php-spider) ⭐ 1,342 | 🐛 2 | 🌐 PHP | 📅 2026-10-22 - A configurable and extensible PHP web spider.
 * [PHPScraper](https://github.com/spekulatius/PHPScraper) ⭐ 588 | 🐛 27 | 🌐 PHP | 📅 2026-09-08 - PHPScraper is a scraper & crawler built for simplicity.
 * [pspider](https://github.com/hightman/pspider) ⭐ 265 | 🐛 1 | 🌐 PHP | 📅 2015-09-16 - Parallel web crawler written in PHP.
@@ -108,7 +108,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 
 ## C++
 
-* [open-source-search-engine](https://github.com/gigablast/open-source-search-engine) ⭐ 1,603 | 🐛 96 | 🌐 C++ | 📅 2024-01-10 - A distributed open source search engine and spider/crawler written in C/C++.
+* [open-source-search-engine](https://github.com/gigablast/open-source-search-engine) ⭐ 1,604 | 🐛 96 | 🌐 C++ | 📅 2024-01-10 - A distributed open source search engine and spider/crawler written in C/C++.
 
 ## C
 
@@ -118,7 +118,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 
 * [Nokogiri](https://github.com/sparklemotion/nokogiri) ⭐ 6,281 | 🐛 138 | 🌐 C | 📅 2026-10-21 - A Rubygem providing HTML, XML, SAX, and Reader parsers with XPath and CSS selector support.
 * [mechanize](https://github.com/sparklemotion/mechanize) ⭐ 4,445 | 🐛 8 | 🌐 Ruby | 📅 2026-10-22 - Automated web interaction & crawling.
-* [upton](https://github.com/propublica/upton) ⭐ 1,595 | 🐛 11 | 🌐 HTML | 📅 2018-12-26 - A batteries-included framework for easy web-scraping. Just add CSS(Or do more).
+* [upton](https://github.com/propublica/upton) ⭐ 1,594 | 🐛 11 | 🌐 HTML | 📅 2018-12-26 - A batteries-included framework for easy web-scraping. Just add CSS(Or do more).
 * [wombat](https://github.com/felipecsl/wombat) ⭐ 1,360 | 🐛 24 | 🌐 Ruby | 📅 2026-04-07 - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.
 * [Spidr](https://github.com/postmodern/spidr) ⭐ 836 | 🐛 16 | 🌐 Ruby | 📅 2026-01-12 - Spider a site, multiple domains, certain links or infinitely.
 * [Cobweb](https://github.com/stewartmckee/cobweb) ⭐ 224 | 🐛 20 | 🌐 JavaScript | 📅 2022-12-01 - Web crawler with very flexible crawling options, standalone or using sidekiq.
@@ -126,7 +126,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 
 ## Rust
 
-* [spider](https://github.com/spider-rs/spider) ⭐ 2,794 | 🐛 4 | 🌐 Rust | 📅 2026-10-20 - The fastest web crawler and indexer.
+* [spider](https://github.com/spider-rs/spider) ⭐ 2,794 | 🐛 4 | 🌐 Rust | 📅 2026-10-23 - The fastest web crawler and indexer.
 * [crawler](https://github.com/a11ywatch/crawler) ⚠️ Archived - A gRPC web indexer turbo charged for performance.
 
 ## R
@@ -143,16 +143,16 @@ A collection of awesome web crawler,spider and resources in different languages.
 
 ## Go
 
-* [colly](https://github.com/asciimoo/colly) ⭐ 25,565 | 🐛 194 | 🌐 Go | 📅 2026-10-16 - Fast and Elegant Scraping Framework for Gophers.
-* [pholcus](https://github.com/henrylee2cn/pholcus) ⭐ 7,583 | 🐛 4 | 🌐 Go | 📅 2026-08-24 -  A distributed, high concurrency and powerful web crawler.
-* [ferret](https://github.com/MontFerret/ferret) ⭐ 6,013 | 🐛 12 | 🌐 Go | 📅 2026-10-16 - Declarative web scraping.
-* [Hakrawler](https://github.com/hakluke/hakrawler) ⭐ 5,150 | 🐛 9 | 🌐 Go | 📅 2026-08-05 - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
+* [colly](https://github.com/asciimoo/colly) ⭐ 25,568 | 🐛 194 | 🌐 Go | 📅 2026-10-16 - Fast and Elegant Scraping Framework for Gophers.
+* [pholcus](https://github.com/henrylee2cn/pholcus) ⭐ 7,582 | 🐛 5 | 🌐 Go | 📅 2026-08-24 -  A distributed, high concurrency and powerful web crawler.
+* [ferret](https://github.com/MontFerret/ferret) ⭐ 6,014 | 🐛 12 | 🌐 Go | 📅 2026-10-16 - Declarative web scraping.
+* [Hakrawler](https://github.com/hakluke/hakrawler) ⭐ 5,149 | 🐛 9 | 🌐 Go | 📅 2026-08-05 - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
 * [dht](https://github.com/shiyanhui/dht) ⭐ 2,771 | 🐛 13 | 🌐 Go | 📅 2021-08-17 - BitTorrent DHT Protocol && DHT Spider.
 * [gocrawl](https://github.com/PuerkitoBio/gocrawl) ⭐ 2,052 | 🐛 6 | 🌐 Go | 📅 2021-05-19 - Polite, slim and concurrent web crawler.
-* [go\_spider](https://github.com/hu17889/go_spider) ⭐ 1,817 | 🐛 22 | 🌐 Go | 📅 2017-11-16 - An awesome Go concurrent Crawler(spider) framework.
+* [go\_spider](https://github.com/hu17889/go_spider) ⭐ 1,816 | 🐛 22 | 🌐 Go | 📅 2017-11-16 - An awesome Go concurrent Crawler(spider) framework.
 * [scrape](https://github.com/yhat/scrape) ⚠️ Archived - A simple, higher level interface for Go web scraping.
 * [fetchbot](https://github.com/PuerkitoBio/fetchbot) ⭐ 791 | 🐛 2 | 🌐 Go | 📅 2021-05-19 - A simple and flexible web crawler that follows the robots.txt policies and crawl delays.
-* [creeper](https://github.com/wspl/creeper) ⭐ 778 | 🐛 5 | 🌐 Go | 📅 2017-05-16 - The Next Generation Crawler Framework (Go).
+* [creeper](https://github.com/wspl/creeper) ⭐ 777 | 🐛 5 | 🌐 Go | 📅 2017-05-16 - The Next Generation Crawler Framework (Go).
 * [Dataflow kit](https://github.com/slotix/dataflowkit) ⭐ 714 | 🐛 4 | 🌐 Go | 📅 2023-03-07 - Extract structured data from web pages. Web sites scraping.
 * [ants-go](https://github.com/wcong/ants-go) ⚠️ Archived - A open source, distributed, restful crawler engine in golang.
 
@@ -164,4 +164,4 @@ A collection of awesome web crawler,spider and resources in different languages.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
